@@ -1,0 +1,18 @@
+{
+  "name": "search-records-in-lat-long-radius",
+  "version": "1.0.0",
+  "description": "Returns list of records that fall within a particular radius of a location (coordinates).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "location",
+    "coordinates",
+    "radius",
+    "search"
+  ],
+  "author": "Nisheet Sharma <nisheet.sharma@live.in>",
+  "license": "ISC",
+  "dependencies": {}
+}
