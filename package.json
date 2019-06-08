@@ -1,6 +1,6 @@
 {
 	"name": "search-records-in-lat-long-radius",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Returns list of records that fall within a particular radius of a location (coordinates).",
 	"main": "index.js",
 	"scripts": {
